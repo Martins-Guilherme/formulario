@@ -9,3 +9,5 @@ O formulário está contido em um card branco centralizado com o título "Criar 
 Na primeira imagem, vemos o formulário com mensagens de validação em vermelho indicando os requisitos para cada campo, como "O nome de usuário é obrigatório" e "A senha precisa ter no mínimo 7 caracteres". Cada campo também apresenta um ícone de alerta em vermelho.
 Na segunda imagem, vemos o formulário preenchido com dados ("Guilherme", "email@gmail.com" e senhas protegidas por asteriscos), e cada campo exibe um ícone de verificação verde, indicando que os dados foram validados com sucesso.
 Incluindo um botão rosa vibrante "Enviar" na parte inferior do formulário para submeter os dados e concluir o processo de cadastro.
+![Formulario](https://github.com/Martins-Guilherme/formulario/blob/main/img/Formul%C3%A1rio.png)
+![Formulario Completo](https://github.com/Martins-Guilherme/formulario/blob/main/img/Formul%C3%A1rioCompleto.png)
